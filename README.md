@@ -1,2 +1,3 @@
 # JavaProgram
-programa que busca em banco de dados mysql registros e os exibe de acordo com as as tags buscadas, tags essas previamente cadastradas no banco
+Programa teste para recuperação de dados e exibição usando ObjectTableModel. Possuí sistema de busca com base nos registros de 'tags'.  
+

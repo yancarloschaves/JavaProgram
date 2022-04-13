@@ -10,9 +10,6 @@ public class Objetos {
     private String designer;
     private String bloco3dUrl;
     
-    public Objetos(){
-        
-    }
 
     public Objetos(String urlImagem, String titulo, String colecao, String tags, String designer, String bloco3dUrl) {
         this.urlImagem = urlImagem;
